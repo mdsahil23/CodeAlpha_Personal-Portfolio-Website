@@ -631,3 +631,7 @@ footer{
     /* margin: 0 auto; */
     /* margin: auto; */
 }
+
+p{
+    font-size: large;
+}
